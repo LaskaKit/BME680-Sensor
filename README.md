@@ -1,0 +1,1 @@
+# The module with measurement of pressure, temperature and humidity BME688 with μSup connector
