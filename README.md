@@ -23,6 +23,8 @@ The power supply voltage of the module and therefore of the sensor is from 1.71V
 
 Another solder bridge determines whether the pull-up resistors will be connected to the I2C bus or not. By default, the resistors are connected. If you want to remove them, just cut the path between the solder bridges. 
 
+## You can buy this module on https://www.laskakit.cz/laskakit-bme688-senzor-tlaku--teploty--vlhkosti-a-kvalitu-vzduchu/
+
 Supported libraries in Arduino IDE are </br>
 [https://github.com/boschsensortec/Bosch-BME68x-Library](https://github.com/boschsensortec/Bosch-BME68x-Library)</br>
 [https://github.com/adafruit/Adafruit_BME680](https://github.com/adafruit/Adafruit_BME680)</br>
