@@ -23,6 +23,8 @@ Napájecí napětí modulu a tedy i čidla je od 1.71V až do 3.6V. Adresa čidl
 
 Další pájecí most určuje zda budou pull-up rezistory připojeny na I2C sběrnici nebo nikoliv. Ve výchozím nastavení jsou rezistory připojeny. Pokud je chceš odstranit, stačí přeříznout cestu mezi pájecími mosty. 
 
+## Tento modul si můžeš objednat na https://www.laskakit.cz/laskakit-bme688-senzor-tlaku--teploty--vlhkosti-a-kvalitu-vzduchu/
+
 Podporované knihovny v Arduino IDE jsou</br>
 [https://github.com/boschsensortec/Bosch-BME68x-Library](https://github.com/boschsensortec/Bosch-BME68x-Library)</br>
 [https://github.com/adafruit/Adafruit_BME680](https://github.com/adafruit/Adafruit_BME680)</br>
